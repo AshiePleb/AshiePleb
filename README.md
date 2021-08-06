@@ -6,6 +6,9 @@
   <a href="https://github.com/AshiePleb">
       <img src="https://img.shields.io/github/followers/AshiePleb?label=Followers&style=for-the-badge&color=lightgrey">
   </a>
+  <a href="https://twitter.com/AshiePleb" alt="Twitter">
+      <img src="https://img.shields.io/twitter/follow/AshiePleb?&style=for-the-badge&color=lightblue">
+  </a>
 </h3>
 
 <!-- Stats Card -->
