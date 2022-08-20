@@ -1,10 +1,28 @@
-![](https://hit.yhype.me/github/profile?user_id=38188828)
-## :wave: Hello there! Welcome to my profile
-![](https://komarev.com/ghpvc/?username=ashiepleb)
+<!-- Stats Badges -->
+<h3 align="center">
+  <a href="https://discord.com/invite/D79gu7Na57" alt="Discord">
+      <img src="https://img.shields.io/discord/769954132748140565?label=discord&style=for-the-badge&color=lightblue">
+  </a>
+  <a href="https://github.com/AshiePleb">
+      <img src="https://img.shields.io/github/followers/AshiePleb?label=Followers&style=for-the-badge&color=lightgrey">
+  </a>
+  <a href="https://twitter.com/AshiePleb" alt="Twitter">
+      <img src="https://img.shields.io/twitter/follow/AshiePleb?&style=for-the-badge&color=lightblue">
+  </a>
+</h3>
 
-My name is Ashley, a full-stack developer working on several open-sourced projects that you can find in here!
-![Metrics](https://metrics.lecoq.io/ashiepleb?template=classic&languages=1&isocalendar=1&activity=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&pagespeed.url=https%3A%2F%2Fpogy.xyz&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FBeirut)
+<!-- Stats Card -->
+<h2 align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AshiePleb&repo=github-readme-stats&count_private=true&include_all_commits=true&show_icons=true&theme=outrun&card_width=750&cache_seconds=1800)]">
+  </a>
+  
+<!-- Top Languages Card -->
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshiePleb&repo=github-readme-stats&count_private=true&show_icons=true&theme=outrun&layout=compact&langs_count=5&card_width=445&cache_seconds=1800)]">
+  </a>
+</h2>
 
-### :envelope: Contact Me
-
-- [Discord](https://discord.com/users/710465231779790849) / Peter_#4444
+<!--
+**AshiePleb/AshiePleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
